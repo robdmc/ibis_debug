@@ -2,7 +2,7 @@
 
 This code reproduced unexpected behavior in ibis-framework.
 
-Run make help to see options you can run.
+Run `make help` to see options you can run.
 
 To reproduce the error run the following:
 
